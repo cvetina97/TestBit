@@ -1,6 +1,6 @@
 <html>
     <div>
-        <p style="width: 60px;">
+        <p class="new">
             Collegue 1
         </p>
     </div>
