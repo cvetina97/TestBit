@@ -1,6 +1,6 @@
 <html>
     <div>
-        <p class="new">
+        <p class="new my-class">
             Collegue 1
         </p>
     </div>
